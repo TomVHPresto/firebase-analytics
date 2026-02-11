@@ -1,8 +1,8 @@
 {
-  "name": "@capacitor-community/firebase-analytics",
+  "name": "@tom_van_howe/firebase-analytics",
   "version": "7.0.1",
   "description": "A native plugin for firebase analytics.",
-  "homepage": "https://github.com/capacitor-community/firebase-analytics",
+  "homepage": "https://github.com/TomVHPresto/firebase-analytics",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -60,9 +60,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/capacitor-community/firebase-analytics"
+    "url": "https://github.com/TomVHPresto/firebase-analytics"
   },
   "bugs": {
-    "url": "https://github.com/capacitor-community/firebase-analytics/issues"
+    "url": "https://github.com/TomVHPresto/firebase-analytics/issues"
   }
 }
