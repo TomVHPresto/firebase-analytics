@@ -17,6 +17,10 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </p>
 
+##
+
+This is a fork of the capcaitor community firebase analytics that fixes a bug with how the scripts are loaded on the web version - where if they fail to load, the call hangs forever and gives an unhandled promise rejection.
+
 ## <a id="breaking-changes"> ❗❗ Breaking changes when updating to ✏️v7.0.0✏️❗❗
 
 ✏️✏️ This plugin now supports Capacitor 7 only. For Capacitor 6, 5 and 4 please use version listed below ✏️✏️
