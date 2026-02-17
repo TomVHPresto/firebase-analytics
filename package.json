@@ -1,6 +1,6 @@
 {
   "name": "@tom_van_howe/firebase-analytics",
-  "version": "7.0.1",
+  "version": "7.0.2",
   "description": "A native plugin for firebase analytics.",
   "homepage": "https://github.com/TomVHPresto/firebase-analytics",
   "main": "dist/plugin.cjs.js",
