@@ -43,7 +43,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorCommunityFirebaseAnalytics.podspec"
+    "TomVanHoweFirebaseAnalytics.podspec"
   ],
   "keywords": [
     "capacitor",
